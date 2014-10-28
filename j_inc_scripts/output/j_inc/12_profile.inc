@@ -1,0 +1,1 @@
+Andrew Brookes, a car worker from Bromsgrove, travelled with friends, who all survived. His sister, Louise Brookes, revealed she has since lost her mother to cancer and buried her Dad only 10 days before the inquest. &quot;I didn't just lose my brother on 15 April, 1989, I lost my parents, too.&quot;

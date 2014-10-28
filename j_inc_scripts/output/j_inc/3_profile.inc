@@ -1,0 +1,1 @@
+Liverpool clerk James Aspinall travelled to the game by coach with a friend, <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--95">Graham John Wright</a>, who also died. His father, also called James Aspinall, stood on the Leppings Lane terraces but survived. James' mother Margaret Aspinall is chair of the Hillsborough Family Support Group.

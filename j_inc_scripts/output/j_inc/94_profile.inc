@@ -1,0 +1,1 @@
+A printing worker from Cheshire and a Liverpool FC season ticket holder, Martin Wild travelled by car from Stockport with friends John Murray and Andrew Kirby, who both survived.

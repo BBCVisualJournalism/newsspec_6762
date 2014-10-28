@@ -1,0 +1,1 @@
+A schoolboy from Liverpool, Philip Hammond travelled by coach to the game with a friend, Ian Southgate, who survived. His father Phil Hammond is the former chair of the Hillsborough Family Support Group.

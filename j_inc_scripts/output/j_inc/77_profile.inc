@@ -1,0 +1,1 @@
+An auto electrician from Liverpool, Steven Robinson travelled on a coach with several friends, including Thomas Hilton and Derek Richards, who both survived.

@@ -1,0 +1,1 @@
+An 18-year-old student from Liverpool, Gary Jones, travelled by minibus with his cousin, Paul Brennan and friends, all of whom survived. He was a Liverpool FC season ticket holder but Hillsborough was his first away trip. At the time, he was planning to visit his sister Julie Flannagan in Spain but &quot;he never made it,&quot; she told the inquest.

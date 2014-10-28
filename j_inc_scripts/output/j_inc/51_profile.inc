@@ -1,0 +1,1 @@
+Eric Hughes was a married sales executive and father-of-two from Warrington. He travelled by car with a number of friends, including Stanley Mullin, who survived.

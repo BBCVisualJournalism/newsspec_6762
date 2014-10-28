@@ -1,0 +1,1 @@
+Tommy Howard as he was known to his family, was a schoolboy from Runcorn. He travelled by coach with his father, <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--48">Thomas Howard</a>, who also died. They were the only father and son to both die at the tragedy.

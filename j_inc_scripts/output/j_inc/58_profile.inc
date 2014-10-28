@@ -1,0 +1,1 @@
+A 38-year-old warehouseman living in Bristol, Michael Kelly travelled on his own by a coach organised by the Avon, South West and South Wales Liverpool Supporters' Club. His brother, Steve, is an active member of the Hillsborough Justice campaign.

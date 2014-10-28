@@ -1,0 +1,1 @@
+A factory worker from Kirkby, Alan McGlone travelled with friends including <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--19">Joseph Clark</a>, who also died. He doted on daughters, Amy and Claire. His wife, Irene, told the inquest: &quot;I'm still waiting to wake my girls out of this nightmare. Alan we love and miss you so much.&quot;

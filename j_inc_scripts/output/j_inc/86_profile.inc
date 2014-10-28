@@ -1,0 +1,1 @@
+A married engineer from Wigan, Peter Thompson was a Liverpool FC season ticket holder. He travelled on his own by car to Hillsborough. &quot;Linda and Peter were looking forward to the birth of their first child when Peter died,&quot; said his brother, Denis.

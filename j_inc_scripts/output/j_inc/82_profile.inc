@@ -1,0 +1,1 @@
+A schoolboy from Runcorn, Adam Spearritt travelled by car with his father, Eddie Spearritt, and some friends, all of whom survived. His father spent three days in a coma at the Northern General Hospital in Sheffield before recovering.

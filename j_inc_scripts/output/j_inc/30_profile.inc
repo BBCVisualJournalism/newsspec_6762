@@ -1,0 +1,1 @@
+Huyton schoolboy Jon-Paul Gilhooley was the youngest person to die at Hillsborough. He travelled to the game by minibus with his uncles, Brian and John Gilhooley, both of whom survived. Jon-Paul was the older cousin of Liverpool footballer Steven Gerrard who was eight at the time.

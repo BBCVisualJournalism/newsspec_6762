@@ -1,0 +1,1 @@
+Stephen O'Neill was a student and Liverpool FC season ticket holder from Whiston, Merseyside. He travelled by car with his father Kevin O'Neill and cousin Paul Owens, who both survived, and his uncle <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--39">David Hawley</a>, who also died.

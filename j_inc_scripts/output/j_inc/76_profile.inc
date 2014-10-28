@@ -1,0 +1,1 @@
+Graham Roberts worked as a gas board engineer from Wallasey, Merseyside and was a Liverpool FC season ticket holder. He travelled by car with a group of friends, including Paul Dunderdale and David Fellowes who survived.

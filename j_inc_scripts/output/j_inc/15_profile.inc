@@ -1,0 +1,1 @@
+A roofer from Liverpool, Henry Burke travelled by car with several friends, including his brother-in-law James Murphy. Mr Burke was the only one of the group to die at Hillsborough.

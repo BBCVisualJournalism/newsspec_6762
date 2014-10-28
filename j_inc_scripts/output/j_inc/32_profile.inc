@@ -1,0 +1,1 @@
+Ian Glover who worked as a street paver from Liverpool, travelled with his brother Joseph Glover and other friends, all of whom survived. Ian's father, John Glover, was a co-founder of the Hillsborough Justice Campaign. He died of cancer in March 2013.

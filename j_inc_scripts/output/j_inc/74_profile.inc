@@ -1,0 +1,1 @@
+Carl Rimmer was a video technician from Liverpool and travelled with his brother, Kevin Rimmer, and two friends all of whom survived. He was saving up to get engaged when he died. An avid Liverpool FC fan, &quot;half of his ashes are at the Kop end, not far from where he used to watch matches,&quot; Kevin Rimmer told the inquests

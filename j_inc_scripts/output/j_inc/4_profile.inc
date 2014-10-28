@@ -1,0 +1,1 @@
+Teenager Kester Ball from St Albans travelled to the game by car with his father, Roger Ball, and a friend, who both survived the tragedy. He was a Liverpool FC season ticket holder.

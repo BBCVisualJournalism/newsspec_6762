@@ -1,0 +1,1 @@
+A car assembly worker from South Wirral, James Delaney travelled with several friends by coach including <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--40">James Hennessy</a>, who also died in the disaster and Brian Bickerstaff who survived.

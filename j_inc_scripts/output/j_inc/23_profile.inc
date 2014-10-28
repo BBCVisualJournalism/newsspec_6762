@@ -1,0 +1,1 @@
+Stephen Copoc, a landscape gardener from Liverpool, travelled to the match by coach with friends Anthony Smith and Anthony Burrows, who both survived. The youngest of the family, he loved birds and fishing according to his sister Angela Griffiths. The whole family were big Liverpool FC fans, &quot;but not since 1989. After that we gave the season tickets back.&quot;

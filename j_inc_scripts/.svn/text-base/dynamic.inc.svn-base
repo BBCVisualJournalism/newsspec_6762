@@ -1,0 +1,54 @@
+<div id="sequential_content" class="full_width">
+
+<ul id="carousel1" class="emp">
+
+	<li class="item-0">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel1.inc" -->
+	</li>
+
+	<li class="item-1">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel2.inc" -->
+	</li>
+
+	<li class="item-2">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel3.inc" -->
+	</li>
+
+	<li class="item-3">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel4.inc" -->
+	</li>
+
+	<li class="item-4">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel5.inc" -->
+	</li>
+
+	<li class="item-5">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel6.inc" -->
+	</li>
+
+	<li class="item-6">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel7.inc" -->
+	</li>
+		
+	<li class="item-7">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel8.inc" -->
+	</li>
+	
+	<li class="item-8">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel9.inc" -->
+	</li>
+	
+	<li class="item-9">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel10.inc" -->
+	</li>
+	
+	<li class="item-10">
+	<!--#include virtual="/news/special/2013/newsspec_4585/inc/panel11.inc" -->
+	</li>
+
+
+
+</ul>
+</div>
+
+<!--END OF CONTENT PRODUCED BY THE VISUAL JOURNALISM TOOLKIT - SEE JIRA NEWSSPEC-410-->

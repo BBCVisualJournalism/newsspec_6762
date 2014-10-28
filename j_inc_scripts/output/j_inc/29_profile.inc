@@ -1,0 +1,1 @@
+Steve Fox, as he was known to his friends and family, was a production worker from Birkenhead who travelled to Sheffield by car with several friends, including John Pleavin, a survivor, and <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--17">Raymond Chapman</a>, who also died in the tragedy.

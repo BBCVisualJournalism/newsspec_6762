@@ -1,0 +1,1 @@
+David Benson, a sales representative from Warrington, drove to the game with his friend Ian Long who survived. At the ground, they separated because they had tickets for different sections.

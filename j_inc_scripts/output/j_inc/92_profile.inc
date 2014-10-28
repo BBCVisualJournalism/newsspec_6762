@@ -1,0 +1,1 @@
+Colin Wafer was a bank clerk from Liverpool and the 1989 FA Cup semi-final at Hillsborough was his first away match. He was close to his sister Lisa and brother Ian and &quot;lively and bright as his red hair,&quot; his father Jim Wafer said. &quot;I remember him as a confident, intelligent, hard-working grafter... who was a pleasure to know.&quot;

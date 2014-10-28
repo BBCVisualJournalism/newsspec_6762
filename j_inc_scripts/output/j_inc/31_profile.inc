@@ -1,0 +1,1 @@
+Barry Glover travelled by car to Hillsborough with his father and three friends who all survived the tragedy. A greengrocer by trade he was &quot;more like a carer or social worker,&quot; explained his wife, Stephanie Sweeney. The streets &quot;were lined with people&quot; for his funeral, she said. &quot;It was clear Barry was as well thought of.&quot;

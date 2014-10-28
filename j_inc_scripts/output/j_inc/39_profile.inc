@@ -1,0 +1,1 @@
+Stephen Harrison was a married father-of-four from Liverpool who worked as a driver. He travelled by coach with his younger brother <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--36">Gary Harrison</a>, who also died in the tragedy.

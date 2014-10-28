@@ -1,0 +1,1 @@
+Carl Lewis, a labourer from Liverpool, set off for Hillsborough by coach with his two brothers Michael and David and friends including Brian Williams, all of whom survived. Mr Lewis and Mr Williams hitch-hiked the last few miles in an attempt to buy tickets.

@@ -1,0 +1,1 @@
+A Liverpool schoolboy, Kevin Williams travelled to Hillsborough with friends all of whom survived. &quot;He used to go on about football all the time,&quot; his sister Sara said. He was very close to his mother Anne Williams who became a leading Hillsborough campaigner before her death in 2012. &quot;It wouldn't surprise me at all if Kevin's last word was 'Mum.'&quot;

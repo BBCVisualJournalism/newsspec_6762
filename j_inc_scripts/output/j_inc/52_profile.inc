@@ -1,0 +1,1 @@
+Alan Johnston, a trainee accountant from Liverpool, travelled to the game by minibus with a number of friends, all of whom survived.

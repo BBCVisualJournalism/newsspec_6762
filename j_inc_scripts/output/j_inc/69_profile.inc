@@ -1,0 +1,1 @@
+A schoolboy from Stoke-on-Trent, Paul Murray travelled from his home town on a coach organised by the Liverpool Supporters' Club with his father, Anthony Murray, who survived. He is one of 38 people aged under 20 who died in the tragedy.

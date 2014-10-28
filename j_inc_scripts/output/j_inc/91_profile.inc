@@ -1,0 +1,1 @@
+A schoolboy from Runcorn, Kevin Tyrrell was also a talented footballer and was hoping to sign apprentice forms with Tranmere Rovers. He was a Liverpool FC season ticket holder and travelled by coach with friends Brian Welch and Steven Cain, who survived the tragedy.

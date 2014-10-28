@@ -1,0 +1,1 @@
+Raymond Chapman was a married machine setter from Birkenhead who travelled by car with several friends, including John Pleavin, a survivor, and <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--28">Steven Fox</a>, who also died.

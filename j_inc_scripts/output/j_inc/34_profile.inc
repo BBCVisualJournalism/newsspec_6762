@@ -1,0 +1,1 @@
+Roy Hamilton was a married railway technician from Liverpool who travelled by coach with his 15-year-old stepson Stuart Hamilton and his brother-in-law Robert Alcock, who both sat in the North Stand seats and survived.

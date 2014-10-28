@@ -1,0 +1,1 @@
+The 95th person to die in the tragedy, Lee Nicol was a Bootle schoolboy, who travelled with friends, Austin Grimmant and Alan Trees, who survived. It was his first away match. He loved music and was christened &quot;Lee Jon Bon Jovi just before his life machine was switched off,&quot; said Mum, Patricia Donnelly.

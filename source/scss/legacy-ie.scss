@@ -1,0 +1,74 @@
+$fix-mqs: 1024px;
+$screen-width-offset: 16px;
+
+@import "main";
+
+.ns__hillsborough--grid-layout {
+
+	width: 973px - $screen-width-offset;
+
+	.ns__hillsborough--thumbs-enabled {
+
+		width: 560px;
+		margin: 0 0 0 8px;
+
+		li {
+ 			margin: 0 11px 12px 0;
+		}
+
+		.ns__hillsborough__thumb:hover:after {
+			position: absolute;
+			top: 94px;
+			left: 0;
+			min-height: 66px;
+			width: 159px;
+		}
+
+		.ns__hillsborough__right-edge .ns__hillsborough__thumb:hover:after {
+			margin-left: -93px;
+		}
+
+		.ns__hillsborough__bottom-edge .ns__hillsborough__thumb:hover:after {
+			margin-top: -188px;
+		}
+
+	}
+
+	.ns__hillsborough__detail {
+
+		width: 376px;
+		margin: 0 8px 0 0;
+
+		.ns__hillsborough__profile-pic {
+			background: url(http://newsimg.bbc.co.uk/news/special/2014/newsspec_6762/english/css/f/profiles_desktop.jpg?cachebuster=cachebuster=cb0000000009) no-repeat;
+			background-size: 152px 14877px;	
+		}
+
+	}
+
+	.ns__filter--enabled {
+			
+		.ns__hillsborough__filter {
+
+			h3 {
+				margin-left: 152px;
+			}
+		}
+
+		.ns__filter__controls {
+			width: 152px;
+		}
+
+		.ns__indicator {
+			width: 160px;
+
+			li {
+				width: 23px;
+				height: 23px;
+			}
+
+		}
+
+	}
+
+}

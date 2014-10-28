@@ -1,0 +1,1 @@
+Peter Tootle was a labourer from Liverpool, who travelled by car with his uncle, Stephen Tootle and friend, Colin Frodsham, both of whom survived the tragedy.

@@ -1,0 +1,106 @@
+<div class="ns-wide-include">
+
+
+
+<div id="clickable"><span>CLICKABLE</span></div>
+
+<div id="toggle-controls">
+
+	<ul class="toggle-controls">
+
+		<!-- Change the menu labels here -->
+
+		<!-- the image with the class "selected" is the default view if Javascript is enabled -->
+
+		<li class="label"><span>Labels</span></li>
+
+		<li class="toggle"><span><a class="tog-off">Off</a></span></li>
+
+		<li class="toggle"><span><a class="tog-on show">On</a></span></li>
+
+	</ul>
+
+</div>
+
+
+
+<!--SECTION 2 - CONTEXT DETAILS-->
+
+<div id="mapping" class="static-t">
+
+
+
+<!--A PATH TO THE IMAGE, IF THE IMAGE IS TO BE MAPPED THEN A USEMAP ATTRIBUTE WILL BE NEEDED-->
+
+<!--<img src= "/news/special/2013/newsspec_4585/img/graphic_1355485797.jpg" width = "976" height = "620" alt = "" class="feedback" />-->
+
+
+
+
+
+<!--ANCHOR TAGS OR AREAS, EITHER WAY THEY WILL NEED AN APPROPRIATE HREF AS WELL AS THE CLASS 'HOTSPOT' -->
+
+
+<ul id="carousel2">
+<li class="item-0" style="width: 161px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb1.jpg)">
+	<a class="hotspot " href="#" style="position: absolute; width: 161px; height: 90px">
+		<span class="no_icon"></span>
+		<span style="width: 161px" class="caption-overlay">
+			<p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot1.inc" --></p>
+		</span>
+	</a>
+</li>
+<li class="item-1" style="width: 161px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb2.jpg)">
+	<a class="hotspot " href="#" style="position: absolute;  width: 161px; height: 90px">
+		<span class="no_icon"></span>
+		<span style="width: 161px" class="caption-overlay">
+			<p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot2.inc" --></p>
+		</span>
+	</a>
+</li>
+<li class="item-2" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb3.jpg)">
+	<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px">
+		<span class="no_icon"></span>
+		<span style="width: 162px" class="caption-overlay">
+			<p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot3.inc" --></p>
+		</span>
+	</a>
+</li>
+<li class="item-3" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb4.jpg)">
+	<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px">
+		<span class="no_icon"></span>
+		<span style="width: 162px" class="caption-overlay">
+			<p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot4.inc" --></p>
+		</span>
+	</a>
+</li>
+<li class="item-4" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb5.jpg)">
+	<a class="hotspot " href="#" style="position: absolute;  width: 162px; height: 90px">
+		<span class="no_icon"></span>
+		<span style="width: 162px" class="caption-overlay">
+				<p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot5.inc" --></p>
+		</span>
+	</a>
+</li>
+<li class="item-5" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb6.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot6.inc" --></p></span></a>
+</li>
+<li class="item-6" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb7.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot7.inc" --></p></span></a>
+</li>
+<li class="item-7" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb8.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot8.inc" --></p></span></a>
+</li>
+<li class="item-8" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb9.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot9.inc" --></p></span></a>
+</li>
+<li class="item-9" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb10.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot10.inc" --></p></span></a>
+</li>
+<li class="item-10" style="width: 162px; height: 90px; background: url(/news/special/2013/newsspec_4585/img/thumbnails/thumb11.jpg)">
+<a class="hotspot " href="#" style="position: absolute; width: 162px; height: 90px"><span class="no_icon"></span><span style="width: 162px" class="caption-overlay"><p><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/spot11.inc" --></p></span></a>
+</li>
+</ul>
+
+
+</div>

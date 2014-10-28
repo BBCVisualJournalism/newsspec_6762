@@ -1,0 +1,62 @@
+<!--START OF CONTENT PRODUCED BY THE VISUAL JOURNALISM TOOLKIT - SEE JIRA NEWSSPEC-410-->
+
+<!--SECTION 1 - PULLS IN THE STYLE SHEETS AND JAVASCRIPT-->
+
+<link href="/news/special/shared/panels/css/v1_6/panel.css" rel="stylesheet" type="text/css" />
+
+<link href="/news/special/shared/timeline/css/v1/timeline.css" rel="stylesheet" type="text/css" />
+<style>
+/* text content for panels now surrounded by a <div class="text-content"> to allow other text fields to be added */
+/* overriding left and right padding on h2 and p tags as these are replaced using margins on the text-content element */
+	#sequential_content.full_width div.gelui-carousel-viewport ul li .text-content{
+		float:left;
+		margin-left: 12px;
+		margin-right: 12px;
+	}
+	#sequential_content.full_width div.gelui-carousel-viewport ul li h2{
+		font-size:24px;
+		padding: 0;
+		margin: 8px 0px;
+		width: auto;
+		float: none;
+	}
+	#sequential_content.full_width div.gelui-carousel-viewport ul li h3{
+		margin:0;
+		font-size:16px;
+		margin-bottom: 8px;
+	}
+	#sequential_content.full_width div.gelui-carousel-viewport ul li p{
+		margin:0;
+		padding-left: 0px;
+		padding-right: 0px;
+		margin-bottom: 8px;
+	}
+
+	/* changes to clickable button so that it stays within <div class="ns-wide-include"> */
+	div#clickable {
+		margin-bottom: 4px;
+		background: black;
+		display: inline-block;
+		padding: 4px;
+	}
+
+	div#clickable span {
+		font-weight: bold;
+		font-size: 13px;
+		color: #ffffff;
+		background: none;
+		padding: 0;
+	}
+</style>
+<!--<script type="text/javascript" src="/news/special/shared/timeline/js/v1/timeline.js"></script>-->
+<script type="text/javascript" src="/news/special/2013/newsspec_4585/js/timeline.js"></script>
+
+
+
+<!-- END OF SECTION 1-->
+
+<!--#include virtual="/news/special/2013/newsspec_4585/inc/mapping.inc" -->
+
+<!--#include virtual="/news/special/2013/newsspec_4585/inc/dynamic.inc" -->
+
+</div>

@@ -1,0 +1,1 @@
+A retired postal worker from Preston, Gerard Baron was the oldest person to die at Hillsborough. His brother Kevin played for Liverpool in the 1950 FA Cup Final. He drove to Sheffield with his son who survived the disaster. Gerard Jnr from Adelaide, South Australia, said his last words to his Dad were: 'You'll be alright.' &quot;How wrong I was.&quot; 

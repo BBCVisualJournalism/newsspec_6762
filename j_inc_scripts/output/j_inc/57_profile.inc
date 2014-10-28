@@ -1,0 +1,1 @@
+Anthony Kelly was an unemployed father-of-three from Birkenhead, who travelled by coach to Sheffield with friends Michael Sullivan and Wayne Jenkins, who both survived.

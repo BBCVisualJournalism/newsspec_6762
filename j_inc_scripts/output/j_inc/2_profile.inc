@@ -1,0 +1,1 @@
+Colin Ashcroft, a gardener from Warrington, travelled on his own to Hillsborough on a Liverpool Supporters' Club coach. He was interested in politics and thought &quot;Maggie Thatcher was the best thing since sliced bread,&quot; according to his Mum, Janet Russell. &quot;Colin had a great future ahead of him.&quot;

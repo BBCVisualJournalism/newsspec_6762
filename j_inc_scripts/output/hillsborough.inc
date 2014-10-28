@@ -1,0 +1,521 @@
+<ul id="ns__hillsborough__list" class="ns__hillsborough__list">
+	<li id="ns__hillsborough--0" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/1_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/1_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/1_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26946924" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--1" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/2_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/2_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/2_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--2" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/3_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/3_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/3_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--3" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/4_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/4_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/4_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--4" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/5_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/5_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/5_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952719" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--5" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/6_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/6_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/6_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--6" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/7_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/7_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/7_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--7" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/8_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/8_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/8_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--8" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/9_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/9_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/9_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26994811" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--9" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/10_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/10_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/10_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--10" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/11_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/11_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/11_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26980704" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--11" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/12_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/12_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/12_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26995889" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--12" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/13_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/13_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/13_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--13" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/14_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/14_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/14_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26930233" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--14" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/15_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/15_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/15_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--15" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/16_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/16_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/16_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--16" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/17_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/17_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/17_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--17" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/18_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/18_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/18_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--18" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/19_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/19_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/19_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--19" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/20_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/20_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/20_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26981620" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--20" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/21_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/21_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/21_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--21" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/22_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/22_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/22_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26943598" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--22" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/23_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/23_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/23_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952321" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--23" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/24_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/24_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/24_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26911550" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--24" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/25_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/25_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/25_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--25" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/26_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/26_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/26_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--26" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/27_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/27_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/27_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--27" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/28_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/28_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/28_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--28" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/29_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/29_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/29_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--29" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/30_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/30_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/30_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--30" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/31_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/31_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/31_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26954403" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--31" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/32_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/32_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/32_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--32" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/33_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/33_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/33_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--33" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/34_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/34_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/34_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--34" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/35_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/35_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/35_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--35" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/36_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/36_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/36_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26942692" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--36" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/37_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/37_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/37_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952713" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--37" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/38_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/38_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/38_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--38" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/39_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/39_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/39_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--39" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/40_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/40_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/40_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--40" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/41_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/41_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/41_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--41" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/42_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/42_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/42_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--42" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/43_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/43_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/43_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26996500" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--43" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/44_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/44_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/44_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26996507" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--44" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/45_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/45_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/45_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--45" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/46_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/46_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/46_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--46" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/47_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/47_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/47_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--47" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/48_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/48_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/48_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26888001" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--48" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/49_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/49_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/49_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--49" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/50_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/50_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/50_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--50" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/51_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/51_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/51_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--51" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/52_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/52_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/52_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--52" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/53_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/53_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/53_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26889672" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--53" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/54_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/54_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/54_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26948209" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--54" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/55_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/55_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/55_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26912077" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--55" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/56_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/56_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/56_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26946067" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--56" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/57_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/57_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/57_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--57" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/58_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/58_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/58_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--58" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/59_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/59_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/59_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--59" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/60_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/60_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/60_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952325" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--60" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/61_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/61_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/61_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--61" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/62_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/62_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/62_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26943603" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--62" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/63_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/63_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/63_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--63" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/64_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/64_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/64_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26905605" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--64" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/65_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/65_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/65_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--65" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/66_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/66_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/66_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--66" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/67_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/67_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/67_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26981451" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--67" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/68_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/68_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/68_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--68" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/69_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/69_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/69_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--69" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/70_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/70_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/70_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--70" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/71_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/71_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/71_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--71" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/72_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/72_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/72_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--72" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/73_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/73_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/73_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26903240" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--73" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/74_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/74_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/74_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952328" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--74" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/75_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/75_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/75_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--75" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/76_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/76_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/76_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--76" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/77_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/77_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/77_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--77" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/78_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/78_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/78_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26931561" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--78" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/79_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/79_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/79_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26992939" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--79" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/80_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/80_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/80_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--80" class=" ns__hillsborough--female">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/81_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/81_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/81_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26904237" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--81" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/82_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/82_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/82_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--82" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/83_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/83_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/83_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--83" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/84_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/84_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/84_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--84" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/85_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/85_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/85_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26891023" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--85" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/86_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/86_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/86_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--86" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/87_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/87_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/87_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26991241" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--87" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/88_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/88_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/88_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--88" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/89_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/89_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/89_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26927469" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--89" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/90_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/90_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/90_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26930226" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--90" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/91_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/91_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/91_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--91" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/92_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/92_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/92_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26954406" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--92" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/93_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/93_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/93_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26901582" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--93" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/94_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/94_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/94_profile.inc"--></p>
+	</li>
+	<li id="ns__hillsborough--94" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/95_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/95_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/95_profile.inc"--></p>
+		<a class="ns__hillsborough__storylink" href="http://www.bbc.co.uk/news/uk-england-26952716" target="ns__linkout">Full story (opens in a new browser window)</a>
+	</li>
+	<li id="ns__hillsborough--95" class="">
+		<h2 class="ns__hillsborough__name"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/96_name.inc"--></h2>
+		<span class="ns__hillsborough__age"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/96_age.inc"--></span>
+		<p class="ns__hillsborough__profile"><!--#include virtual="/news/special/2014/newsspec_6762_j_inc/96_profile.inc"--></p>
+	</li>
+</ul>
+
+
+

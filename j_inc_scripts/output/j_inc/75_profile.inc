@@ -1,0 +1,1 @@
+A married sales manager from Skelmersdale, David Rimmer travelled by car to Sheffield with Geoffrey Bridson, a friend, who survived.

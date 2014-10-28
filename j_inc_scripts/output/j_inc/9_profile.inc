@@ -1,0 +1,1 @@
+A 22-year-old HGV driver living with his father, James Saunders, in Cannock, David Birtle drove on his own to Sheffield. He loved music and his mother, Jennifer Birtle told the inquest: &quot;As a family we are owed an explanation, sooner rather than later, of how and why David died that day.&quot;

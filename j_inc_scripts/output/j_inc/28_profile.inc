@@ -1,0 +1,1 @@
+Vincent Fitzsimmons was a divorced moulding technician from Wigan, who travelled by coach with friends John Richardson, Graham Richardson and William Woods, who all survived.

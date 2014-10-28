@@ -1,0 +1,1 @@
+An accounts clerk from Gloucester, Derrick Godwin caught the train from Cheltenham to Hillsborough. He was a keen sportsman, playing cricket, football, snooker and darts. His mother, Margaret Godwin said Derrick's father, Stanley Godwin, &quot;told him to stand in front of the crush barrier and we're sure that he did.&quot;

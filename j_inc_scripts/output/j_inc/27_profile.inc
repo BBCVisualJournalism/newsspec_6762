@@ -1,0 +1,1 @@
+A steelworker from South Wirral, Christopher Edwards travelled by car with a group of friends including Malcolm Ramsey who all survived. Once inside the ground, Mr Edwards separated from the group as he was the only one with a standing terrace ticket.

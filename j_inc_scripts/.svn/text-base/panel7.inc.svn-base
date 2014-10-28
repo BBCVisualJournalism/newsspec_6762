@@ -1,0 +1,13 @@
+<div class="panel" id="panel7">
+
+	<div class="text-content">
+		<h2 class="hd"><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/header7.inc" --></h2>
+		<h3 class="date"><!--#include virtual="/news/special/2013/newsspec_4585/j_inc/date7.inc" --></h3>
+		<!--#include virtual="/news/special/2013/newsspec_4585/j_inc/caption7.inc" -->
+	</div>
+
+	<div id="media-6" class="ns_emp">
+		<img src="/news/special/2013/newsspec_4585/img/photos/panel7.jpg" alt="" width="640" height="360"  />
+	</div>
+
+</div>

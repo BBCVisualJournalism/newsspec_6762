@@ -1,0 +1,1 @@
+Paul Hewitson, a builder from Liverpool, travelled by car with several friends, including Terence Moore, who survived.

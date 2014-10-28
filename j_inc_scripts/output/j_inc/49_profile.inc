@@ -1,0 +1,1 @@
+A chemical process worker from Runcorn, Thomas Howard travelled by coach with friends and his 14-year-old son <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--49">Thomas Anthony Howard</a>, who also died. They were the only father and son to die in the tragedy.

@@ -1,0 +1,1 @@
+A divorced seaman from Liverpool, Barry Sidney Bennett travelled to the match by car with four friends. They became separated outside the stadium but all survived with the exception of Mr Bennett.

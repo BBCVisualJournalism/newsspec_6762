@@ -1,0 +1,1 @@
+Known as Andrew to family and friends, Mr Sefton was a security officer from Skelmersdale. Despite being a Tottenham fan, he agreed to drive his friends and go to the match with them, all of whom survived. His mother Teri Sefton was treasurer of the Hillsborough Family Support Group until her death.

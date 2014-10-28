@@ -1,0 +1,1 @@
+Gordon Horn, an unemployed 20-year-old from Liverpool, travelled by minibus with a number of friends, including Andrew Dodd and Dougie Hardaker, both of whom survived.

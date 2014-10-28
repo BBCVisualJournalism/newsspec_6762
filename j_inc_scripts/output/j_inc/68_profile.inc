@@ -1,0 +1,1 @@
+Keith McGrath from Liverpool worked as a painter and travelled to the match by coach with friends. He was one of 38 people aged under 20 who died in the tragedy.

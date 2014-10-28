@@ -1,0 +1,1 @@
+Inger Shah was a Liverpool FC season ticket holder who was originally from Denmark. A secretary who worked in London, she travelled to Sheffield by train with her 13-year-old son Daniel, who survived, and fellow victim <a class="ns__hillsborough__link--companion" href="#ns__hillsborough--63">Marian McCabe</a>. She was the oldest of seven women and girls to die at Hillsborough.

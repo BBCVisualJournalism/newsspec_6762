@@ -1,0 +1,1 @@
+Paul Carlile was a plasterer and Liverpool FC season ticket holder who travelled by train from Liverpool with two friends. They both survived.
